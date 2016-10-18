@@ -1,0 +1,26 @@
+{
+  "name": "harvest team community app",
+  "version": "1.0.0",
+  "description": "A Node.js app",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kosafo/harvestteamcommunity"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "harvestteamcomunity"
+  ],
+  "license": ""
+}
